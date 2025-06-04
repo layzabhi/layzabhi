@@ -2,8 +2,7 @@
 - 👀 I’m interested in doing projects
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me - 
-- 😄 Pronouns: ...
+- 📫 How to reach me - Dm me on Instagram - layzabhi
 - ⚡ Fun fact: Programming is kinda fun but sometimes it is frustrating 😅
 
 <!---
