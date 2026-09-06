@@ -1,155 +1,165 @@
-# Hi there, I'm Abhishek Gupta 👋
+# Hi, I'm Abhishek Gupta 👋
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&random=false&width=600&lines=WordPress+Developer;Full+Stack+Developer;Custom+Plugin+%26+Theme+Developer;Building+Cool+Stuff+%F0%9F%9A%80)
+### ML Engineer & Software Developer
 
-</div>
+I build machine learning systems and software applications that combine data, backend engineering, and modern web technologies to solve practical problems.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=layzabhi&label=Profile%20Views&color=D4AF37&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/layzabhi?label=Followers&style=flat-square&color=D4AF37" alt="Followers" />
-</p>
+I'm a Computer Science & Engineering (Data Science) graduate with hands-on experience in machine learning, software development, data processing, and full-stack application development.
 
 ---
 
 ## 🚀 About Me
 
-🎓 **Final Year CSE Student** specializing in Data Science  
-💼 **WordPress Developer** building custom plugins, themes & headless solutions  
-🔍 **Actively seeking** job opportunities in software development  
-🌱 Currently exploring **Gutenberg Block Development** and **Headless WordPress**  
-⚡ Fun fact: I turn coffee into code ☕➡️💻
+- 🎓 Computer Science & Engineering (Data Science) graduate
+- 🤖 Focused on Machine Learning, Artificial Intelligence, and Data Science
+- 💻 Interested in Software Engineering, Backend Development, and Full-Stack Systems
+- 🧠 Experienced with Python, XGBoost, Scikit-learn, SHAP, FastAPI, React, and PostgreSQL
+- 🐳 Comfortable building containerized applications with Docker
+- 🔍 Currently exploring AI systems, autonomous research workflows, and production-oriented ML engineering
+- 💼 Open to opportunities in Machine Learning Engineering, AI Engineering, Software Engineering, and Data Science
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Python • Java • JavaScript • PHP • SQL
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### Machine Learning & Data Science
+Machine Learning • Deep Learning • Data Science • XGBoost • Scikit-learn • TensorFlow • SHAP • Pandas • NumPy
 
-### Database & APIs
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Software Development
+React • FastAPI • Node.js • REST APIs • HTML • CSS
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Gutenberg](https://img.shields.io/badge/Gutenberg-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+### Databases
+PostgreSQL • MySQL • MongoDB
+
+### DevOps & Tools
+Docker • Docker Compose • Git • GitHub
+
+### Additional Experience
+WordPress • Gutenberg Block Development • Headless WordPress
 
 ---
 
-## 💼 What I Do
+## ⭐ Featured Projects
 
-```php
-class AbhishekGupta {
-    public function __construct() {
-        $this->name = "Abhishek Gupta";
-        $this->role = "WordPress Developer";
-        $this->location = "West Bengal, India";
-    }
+### 🥇 RiskLens — AI-Powered Credit Risk Assessment Platform
 
-    public function getSkills() {
-        return [
-            'WordPress' => ['Custom Plugins', 'Custom Themes', 'Gutenberg Blocks', 'Headless WP'],
-            'Frontend' => ['React', 'JavaScript', 'HTML5', 'CSS3'],
-            'Backend' => ['PHP', 'Python', 'REST API', 'MySQL'],
-            'Currently Learning' => ['Advanced React', 'Headless CMS', 'Modern WordPress']
-        ];
-    }
+An end-to-end credit risk assessment and scoring platform built around machine learning, explainability, model monitoring, and governance.
 
-    public function getCurrentStatus() {
-        return "🔍 Open to job opportunities | 🚀 Building cool stuff";
-    }
-}
-```
+**Highlights:**
+- XGBoost classification model achieving 89.52% AUC-ROC and 87.71% accuracy
+- Trained on a dataset containing approximately 458K records
+- SHAP-based model explainability
+- Automated ML training and evaluation pipeline
+- PSI-based model monitoring and feature drift detection
+- Model audit trails and governance features
+- React dashboard with FastAPI backend
+- PostgreSQL database
+- Docker Compose deployment
 
----
+**Tech:** Python • XGBoost • Scikit-learn • SHAP • React • FastAPI • PostgreSQL • Docker
 
-## 🎯 Featured Projects
 
-<div align="center">
+### 🥈 Universal Credit Risk Assessment
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **🔌 Custom WordPress Plugin** | Advanced WordPress plugins for enhanced functionality | PHP, JavaScript, WP APIs |
-| **🎨 Custom WordPress Theme** | Responsive and professional WordPress themes | PHP, CSS, JavaScript |
-| **📦 Gutenberg Blocks** | Custom Gutenberg blocks for enhanced editing | React, WordPress Block API |
-| **🌐 Headless WordPress** | Decoupled WordPress using REST API | WordPress, React, REST API |
+A credit risk intelligence platform designed to process heterogeneous credit datasets and provide explainable underwriting analysis.
 
-</div>
+**Highlights:**
+- Universal dataset ingestion and recognition
+- Dynamic schema mapping and normalization
+- Synthetic Credit Quality Score (SCQS)
+- Calibrated LightGBM + XGBoost + CatBoost ensemble
+- Optuna-based optimization
+- SHAP explainability
+- JWT authentication and role-based access
+- Automated PDF underwriting reports
+- Interactive React risk analysis dashboard
 
-> 📂 Check out my repositories below to see the code!
+**Tech:** Python • LightGBM • XGBoost • CatBoost • SHAP • FastAPI • React • SQLAlchemy
 
----
 
-## 📊 GitHub Stats
+### 🥉 Autonomous Research Scientist
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=layzabhi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layzabhi&layout=compact&langs_count=8&theme=dark&border_color=D4AF37&title_color=D4AF37"/>
-</div>
+An AI research system under development that combines backend engineering with autonomous research workflows.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=layzabhi&theme=dark&border=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" alt="GitHub Streak" />
-</div>
+**Current foundation includes:**
+- FastAPI backend
+- PostgreSQL
+- SQLAlchemy
+- Alembic
+- React frontend
+- Docker Compose
+- Layered service/repository architecture
+- API versioning and configuration management
 
----
+**Planned capabilities include:**
+- Scientific literature retrieval
+- RAG
+- Knowledge graphs
+- Multi-agent orchestration
+- Hypothesis generation
+- Experiment planning
+- Research synthesis
 
-## 🏆 GitHub Trophies
+**Tech:** Python • FastAPI • PostgreSQL • SQLAlchemy • React • Docker
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=layzabhi&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=D4AF37" alt="GitHub Trophies" />
-</div>
 
----
+### 🌐 Headless WordPress API
 
-## 📈 Contribution Graph
+A full-stack headless WordPress system using WordPress as a CMS backend and Next.js as the frontend.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=layzabhi&theme=github-dark&bg_color=0d1117&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" />
-</div>
+**Highlights:**
+- Custom WordPress REST API
+- JWT authentication
+- Custom post types and fields
+- Next.js frontend
+- React and TypeScript
+- Headless CMS architecture
 
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-gupta-aa983b325/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-dusky-nine-97.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekgupta20official@gmail.com)
-
-</div>
+**Tech:** WordPress • PHP • REST API • JWT • Next.js • React • TypeScript
 
 ---
 
-## 💡 Random Dev Quote
+## 📌 What I Build
 
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_color=D4AF37)
+I enjoy working at the intersection of:
 
-</div>
+**Machine Learning**
+→ Building and evaluating predictive models
+
+**Software Engineering**
+→ Turning models and business logic into usable applications
+
+**Backend Development**
+→ Designing APIs, services, databases, and application architecture
+
+**AI Systems**
+→ Exploring RAG, explainable AI, autonomous workflows, and intelligent applications
 
 ---
 
-<div align="center">
-  
-### 💼 Open to Job Opportunities | Let's Build Something Amazing Together! 🚀
+## 🌱 Currently Exploring
 
-**⭐ From [layzabhi](https://github.com/layzabhi)**
+- AI Engineering
+- Autonomous AI systems
+- Retrieval-Augmented Generation (RAG)
+- Multi-agent architectures
+- MLOps and model monitoring
+- Scalable backend systems
+- Advanced machine learning workflows
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+---
 
-</div>
+## 📫 Connect With Me
+
+I'm always open to discussing software engineering, machine learning, AI systems, interesting projects, and career opportunities.
+
+- LinkedIn — https://www.linkedin.com/in/abhishek8853/
+- Portfolio — https://portfolio-dusky-nine-97.vercel.app/
+- Email — abhishekgupta20official@gmail.com
+
+---
+
+### Code. Learn. Build. Repeat. Impact.
